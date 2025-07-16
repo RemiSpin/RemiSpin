@@ -1,1 +1,1 @@
-Hi, I'm RemiSpin, a third year CS student.
+Hi, I'm RemiSpin, a CS graduate.
